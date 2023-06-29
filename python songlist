@@ -1,0 +1,7 @@
+{"songlist": [{"id": 1234, "title": "Knee Deep", "artist": "Zac Brown Band", "year": 2010, "album": "You Get What You Give", "rating": 7},
+              {"id": 8930, "title": "Summertime", "artist": "Kenny Chesney", "year": 2005, "album": "The Road and the Radio", "rating": 9},
+              {"id": 6797, "title": "Good Vibes", "artist": "Chris Janson", "year": 2019, "album": "Real Friends", "rating": 8},
+              {"id": 2345, "title": "Fancy Like", "artist": "Walker Hayes", "year": 2021, "album": "Country Stuff The Album", "rating": 10},
+              {"id": 4837, "title": "Margaritaville", "artist": "Jimmy Buffett", "year": 1977, "album": "Changes in Latitudes, Changes in Attitudes", "rating": 10}
+             ]
+}
